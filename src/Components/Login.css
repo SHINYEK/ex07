@@ -1,0 +1,37 @@
+input{
+    width: 90%;
+    padding: 5px;
+    font-family: 'san';
+    margin: 5px;
+    border-radius: 6px;
+    border: solid 1px gray;
+}
+.login{
+    width: 30%;
+    padding: 30px 100px;
+    margin: 0px auto;
+    text-align: center;
+    border: solid gray 1px;
+    border-radius: 30px;
+    background-color: aliceblue;
+    border-style: none;
+}
+
+button{
+    padding: 10px 20px;
+    text-align: center;
+    background-color: rgb(47, 167, 242);
+    font-size: 15px;
+    border-radius: 10px;
+    border-style: none;
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+form{
+    margin-top: 30px;
+}
+  
+  

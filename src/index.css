@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'san';
+  src: url('NotoSansKR-Regular.otf');
+}
+
+body{
+  font-family: 'san';
+}
